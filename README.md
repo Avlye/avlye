@@ -1,6 +1,6 @@
 ### Hi, it's great you're here! 👋
 
-I'm Gabriel Avlye, also known as Avlye, a Front End Developer with design roots.
+I'm Gabriel Almir, also known as Avlye, a Front End Developer with design roots.
 
 - ❤️ In love with programming.
 - 🌱 Learning React & TypeScript.
