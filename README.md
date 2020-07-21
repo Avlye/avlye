@@ -25,6 +25,6 @@ I'd love to get a job as entry-level in Web Development this year, with good exp
 I love learning new things, contributing to projects, supporting beginners, and also I'd enjoy getting in touch. 💬 
 
 [![Github Badge](https://img.shields.io/badge/-avlye-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/avlye)](https://github.com/avlye)
-[![Linkedin Badge](https://img.shields.io/badge/-avlye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avlye/)](https://www.linkedin.com/in/avlyev/)
-[![Twitter Badge](https://img.shields.io/badge/-avlyev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/avlyev)](https://twitter.com/avlye)
+[![Linkedin Badge](https://img.shields.io/badge/-avlye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avlye/)](https://www.linkedin.com/in/avlye/)
+[![Twitter Badge](https://img.shields.io/badge/-avlyev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/avlyev)](https://twitter.com/avlyev)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avlye.vee@gmail.com)](mailto:avlye.vee@gmail.com)
