@@ -1,13 +1,13 @@
 ### Hi, it's great you're here! 👋
 
-I'm Gabriel Avlye, also knowed as Avlye, a Front End Developer with design roots.
+I'm Gabriel Avlye, also known as Avlye, a Front End Developer with design roots.
 
 - ❤️ In love with programming.
 - 🌱 Learning React & TypeScript.
 - 💬 Feel free to ask me about Web Development.
-- 📫 How to reach me: avlye.vee@gmail.com & [my linkedin profile](https://www.linkedin.com/in/avlye/).
+- 📫 How to reach me: avlye.vee@gmail.com & [my Linkedin profile](https://www.linkedin.com/in/avlye/).
 - 😄 Ruby on Rails still my favorite backend framework.
-- ⚡ Fun fact: I was also knowed as kewer, when I worked on Diolinux.
+- ⚡ Fun fact: When I worked on Diolinux, my nickname was kewer.
 
 [![Github Badge](https://img.shields.io/badge/-avlye-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/avlye)](https://github.com/avlye)
 [![Linkedin Badge](https://img.shields.io/badge/-avlye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avlye/)](https://www.linkedin.com/in/avlye/)
