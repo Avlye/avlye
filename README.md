@@ -17,7 +17,8 @@ Heavily interested in Web & App Development, and with experience in SEO and Fron
 
 Getting good foundations in Full Stack Development is vital for me, so I always look for an opportunity to learn and contribute to Back End Oriented Technology.
 
-What about my tech skills  & goals?
+*What about my tech skills  & goals?*
+
 Focused on HTML5, CSS, and JavaScript, I love working with SASS, React, and TypeScript. Besides some previous fundamental experience with Web2py (Python) and Ruby on Rails in 2013-2016, I'm looking to upgrade my level into Back End Development.
 
 I'd love to get a job as entry-level in Web Development this year, with good experience in SEO, I'd love to share the knowledge I got working on Diolinux.
