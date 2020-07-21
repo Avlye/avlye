@@ -9,7 +9,7 @@ I'm Gabriel Avlye, also known as Avlye, a Front End Developer with design roots.
 - 😄 Ruby on Rails still my favorite backend framework.
 - ⚡ Fun fact: When I worked on Diolinux, my nickname was kewer.
 
-#### More About Me
+#### About Me
 
 I study Analysis and Systems Development at the Technical Faculty (FATEC) in Brazil. I worked on Diolinux, LinuxSociALL, and contributed to other projects focused on Open Source.
 
