@@ -21,23 +21,6 @@ What about my tech skills  & goals?
 Focused on HTML5, CSS, and JavaScript, I love working with SASS, React, and TypeScript. Besides some previous fundamental experience with Web2py (Python) and Ruby on Rails in 2013-2016, I'm looking to upgrade my level into Back End Development.
 
 I'd love to get a job as entry-level in Web Development this year, with good experience in SEO, I'd love to share the knowledge I got working on Diolinux.
-What is my previous experience?
-I mainly worked on Diolinux, a well-known project about Linux and Open Source through his philosophy of Freedom of Knowledge, created a fantastic person called Dionatan Simioni.
-
-Back in 2013, Web Designers often had to do the entire development process, from UI Design to some Back End Development. I learned so many things while at work on many projects.
-
-Besides being mainly responsible for improving blog performance & SEO, I also was responsible for ensuring good interactivity and accessibility, helping into E-Commerce maintenance, often supporting readers and customers.
-
-Mostly Used Technologies:
-• Blogger Templating Language
-• HTML, CSS and JavaScript
-• JQuery and Ajax
-• Web2py
-
-What Open Source projects are you proud to have contributed?
-I contributed to two different versions of Sails.js, an MVC Framework to JavaScript inspired by Ruby on Rails, focused on translating Sails documentation to Brazilian Portuguese.
-
-Do wanna help me? Check out the Avlye/sails-docs-pt-br at Github.
 
 I love learning new things, contributing to projects, supporting beginners, and also I'd enjoy getting in touch. 💬 
 
