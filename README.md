@@ -9,7 +9,6 @@
 I study Analysis and Systems Development at the Technical Faculty (FATEC) in Brazil.
 Heavily interested in Web & App Development, and with experience in SEO and Front End performance optimization, mostly my skills involve UI Design and JavaScript ❤.
 
-- ❤️ In love with programming.
 - 🌱 Learning React & TypeScript.
 - ⚡ Fun fact: When I worked on Diolinux, my nickname was kewer.
 - 📫 How to reach me: [avlye.vee@gmail.com](mailto:avlye.vee@gmail.com) & [my Linkedin profile](https://www.linkedin.com/in/avlye/).
