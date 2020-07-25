@@ -6,22 +6,17 @@ I'm Gabriel Almir, also known as Avlye, a Front End Developer with design roots.
 - 🌱 Learning React & TypeScript.
 - 💬 Feel free to ask me about Web Development.
 - 📫 How to reach me: avlye.vee@gmail.com & [my Linkedin profile](https://www.linkedin.com/in/avlye/).
-- 😄 Ruby on Rails still my favorite backend framework.
 - ⚡ Fun fact: When I worked on Diolinux, my nickname was kewer.
 
 #### About Me
 
-I study Analysis and Systems Development at the Technical Faculty (FATEC) in Brazil. I worked on Diolinux, LinuxSociALL, and contributed to other projects focused on Open Source.
-
+I study Analysis and Systems Development at the Technical Faculty (FATEC) in Brazil.
 Heavily interested in Web & App Development, and with experience in SEO and Front End performance optimization, mostly my skills involve UI Design and JavaScript ❤.
-
 Getting good foundations in Full Stack Development is vital for me, so I always look for an opportunity to learn and contribute to Back End Oriented Technology.
 
 **What about my tech skills  & goals?**
 
-Focused on HTML5, CSS, and JavaScript, I love working with SASS, React, and TypeScript. Besides some previous fundamental experience with Web2py (Python) and Ruby on Rails in 2013-2016, I'm looking to upgrade my level into Back End Development.
-
-I'd love to get a job as entry-level in Web Development this year, with good experience in SEO, I'd love to share the knowledge I got working on Diolinux.
+Focused on HTML5, CSS, and JavaScript, I love working with SASS, React, and TypeScript. Besides some previous fundamental experience with Web2py (Python) and Ruby on Rails in 2013-2016, I'm looking to upgrade my level into Back End Development. I'd love to get a job as entry-level in Web Development this year, with good experience in SEO, I'd love to share the knowledge I got working on Diolinux
 
 I love learning new things, contributing to projects, supporting beginners, and also I'd enjoy getting in touch. 💬 
 
