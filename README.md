@@ -6,28 +6,23 @@
 [![Linkedin Badge](https://img.shields.io/badge/-avlye-00a1f4?style=flat-square&labelColor=ab0387&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avlye/)](https://www.linkedin.com/in/avlye/) 
 [![Gmail Badge](https://img.shields.io/badge/-avlye.vee@gmail.com-00a1f4?style=flat-square&logo=Gmail&labelColor=ab0387&logoColor=white&link=mailto:avlye.vee@gmail.com)](mailto:avlye.vee@gmail.com)
 
-```ruby
-class Avlye < Human
-  attr_reader :name, :age, :pronouns, :title,
-              :code, :tools, :architecture, :learning
+```typescript
+export class Avlye extends Human {
+  name = "Gabriel Almir"
+  age = new Date().getFullYear() - 1997
+  title = 'Junior Software Developer'
 
-  def initialize
-    @name         = "Gabriel Almir"
-    @age          = Time.now.year - 1997
-    @pronouns     = ["he", "him"]
-    @title        = "Junior Software Developer"
-    @code         = [:Ruby, :Python, :HTML, :CSS, :JavaScript]
-    @tools        = [:Node, :Git, :SCSS, :Docker]
-    @architecture = [:MVC, :REST]
-    @learning     = [:TypeScript, :React]
-  end
-end
+  code = ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Python']
+  tools = ['NodeJS', 'Git', 'Docker', 'React', 'Sass']
+  architecture = ['MVC', 'REST', 'Monorepo']
+  learning = ['React Native', 'UI Design']
+}
 ```
 
 I study Analysis and Systems Development at the Technical Faculty (FATEC) in Brazil.
 Heavily interested in Web & App Development, and with experience in SEO and Front End performance optimization, mostly my skills involve UI Design and JavaScript ❤.
 
-- 🌱 Learning React & TypeScript.
+- 🌱 Learning React Native & UI Design.
 - ⚡ Fun fact: When I worked on Diolinux, my nickname was kewer.
 - 📫 How to reach me: [avlye.vee@gmail.com](mailto:avlye.vee@gmail.com) & [my Linkedin profile](https://www.linkedin.com/in/avlye/).
 - 💬 Feel free to ask me about Web Development.
