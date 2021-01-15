@@ -14,12 +14,6 @@ class Avlye(Human):
     self.programming_languages = ["JavaScript", "C#", "Python"]
     self.architectures = ["MVC", "REST", "Monorepo"]
     self.learning = ["Godot", "Pixel Art", "Game Design"]
-
-  def resume(self):
-    print(f"{self.name}, a {self.title}")
-    print(f"Programming Languages: {', '.join(self.programming_languages)}")
-    print(f"Architectures: {', '.join(self.architectures)}")
-    print(f"Learning: {', '.join(self.learning)}")
 ```
 
 A meticulous programmer passionate about turning new ideas into projects.
