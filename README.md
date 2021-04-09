@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel Almir
 
-### Game Software Developer | JavaScript, C# and Python Developer
+### Software Developer
 
 [![Twitter Badge](https://img.shields.io/badge/-@avlyev-00a1f4?style=flat-square&labelColor=ab0387&logo=twitter&logoColor=white&link=https://twitter.com/avlyev)](https://twitter.com/avlyev)
 [![Linkedin Badge](https://img.shields.io/badge/-avlye-00a1f4?style=flat-square&labelColor=ab0387&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avlye/)](https://www.linkedin.com/in/avlye/) 
