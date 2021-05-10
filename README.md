@@ -24,7 +24,7 @@ I focus on improving my knowledge in Software Development using the most efficie
 
 [comment]: <> (- 🌱 Learning: React Native)
 - ⚡ Fun fact: When I worked on Diolinux, my nickname was kewer.
-- 📫 How to reach me: [avlye.vee@gmail.com](mailto:avlye.vee@gmail.com) & [my Linkedin profile](https://www.linkedin.com/in/avlye/).
+- 📫 How to reach me: [avlye.vee@gmail.com](mailto:avlye.me@gmail.com) & [my Linkedin profile](https://www.linkedin.com/in/avlye/).
 - 💬 Feel free to contact me.
 
 I love learning new things, contributing to projects, supporting beginners, and also I'd enjoy getting in touch. 💬 
