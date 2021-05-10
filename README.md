@@ -2,7 +2,7 @@
 
 ### Software Developer
 
-[![Twitter Badge](https://img.shields.io/badge/-@avlyev-00a1f4?style=flat-square&labelColor=ab0387&logo=twitter&logoColor=white&link=https://twitter.com/avlyev)](https://twitter.com/avlyev)
+[![Twitter Badge](https://img.shields.io/badge/-@avlye_me-00a1f4?style=flat-square&labelColor=ab0387&logo=twitter&logoColor=white&link=https://twitter.com/avlyev)](https://twitter.com/avlye_me)
 [![Linkedin Badge](https://img.shields.io/badge/-avlye-00a1f4?style=flat-square&labelColor=ab0387&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avlye/)](https://www.linkedin.com/in/avlye/) 
 [![Gmail Badge](https://img.shields.io/badge/-avlye.vee@gmail.com-00a1f4?style=flat-square&logo=Gmail&labelColor=ab0387&logoColor=white&link=mailto:avlye.vee@gmail.com)](mailto:avlye.vee@gmail.com)
 
