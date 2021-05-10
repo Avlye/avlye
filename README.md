@@ -12,8 +12,7 @@ class Avlye(Human):
     super().__init__(name="Gabriel Almir", birthyear=1997)
     self.title = "Game Software Developer"
     self.programming_languages = ["JavaScript", "C#", "Python"]
-    self.architectures = ["MVC", "REST", "Monorepo"]
-    self.learning = ["Godot", "Pixel Art", "Game Design"]
+    self.architectures = ["MVC", "REST", "Monorepo"]    
 ```
 
 A meticulous programmer passionate about turning new ideas into projects.
@@ -23,7 +22,7 @@ I worked at Diolinux, LinuxSociAll, and contributed to other projects focused on
 
 I focus on improving my knowledge in Software Development using the most efficient technologies on the market.
 
-- 🌱 Learning: Godot, Pixel Art and Game Design
+[comment]: <> (- 🌱 Learning: React Native)
 - ⚡ Fun fact: When I worked on Diolinux, my nickname was kewer.
 - 📫 How to reach me: [avlye.vee@gmail.com](mailto:avlye.vee@gmail.com) & [my Linkedin profile](https://www.linkedin.com/in/avlye/).
 - 💬 Feel free to contact me.
