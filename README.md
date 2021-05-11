@@ -18,8 +18,8 @@ class Avlye(Human):
 A meticulous programmer passionate about turning new ideas into projects.
 
 I'm currently a student of Systems Analysis and Development at the Technical College (FATEC).
-I worked at Diolinux, LinuxSociAll, and contributed to other projects focused on open source.
 
+I worked at Diolinux, LinuxSociAll, and contributed to other projects focused on open source.
 
 I focus on improving my knowledge in Software Development using the most efficient technologies on the market.
 
